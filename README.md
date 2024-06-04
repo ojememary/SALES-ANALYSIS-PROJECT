@@ -18,6 +18,11 @@ Customizable Views: Tailor the dashboard to meet your specific needs.
 Interactive Features: Dive deeper into the data with interactive elements.
 Illustrative Pictures: Clear visuals to enhance understanding and engagement.
 
+
+![Screenshot 2024-05-30 201559](https://github.com/ojememary/SALES-ANALYSIS-PROJECT/assets/155962114/7748b1ed-30ab-47e3-8f8d-df678a211b9e)
+
+
+
 ### Data Source
 
 Sales Data: The primary dataset used for this analysis is the "sales_data.xlsl" file,containing information about each transaction made by the company
