@@ -110,3 +110,5 @@ The business has 6 staff in Woji branch and 2 in Town branch, and the total sale
 • Town branch: The two staff in Town branch (Uche and Tunde), should go for training with the leaders in Woji or GRA branch. Staff rotation will also help to revive the branch.
 
 
+
+
